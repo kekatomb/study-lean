@@ -1,0 +1,3 @@
+namespace FunctionalProgrammingInLean.Chapters.Ch1
+
+end FunctionalProgrammingInLean.Chapters.Ch1
